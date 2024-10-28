@@ -39,3 +39,9 @@ By default, the application starts on port 8080. and the Project is using JAVA 2
   http://localhost:8080/swagger-ui/index.html
 ```
 PS: localhost can be replaced with the test environment(stage) host name where the API is deployed.
+
+
+## Next:
+  - Add more test
+  - Add deployment files
+  - work on Todos in the code
