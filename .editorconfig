@@ -1,0 +1,13 @@
+; editorconfig.org
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{yaml,yml}]
+indent_size = 2
+indent_style = space
+
+[*.java]
+tab_width = 2
+indent_size = 2
+max_line_length = 100
