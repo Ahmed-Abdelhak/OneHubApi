@@ -76,9 +76,3 @@ compileJava {
     sourceCompatibility = JavaVersion.VERSION_21
     targetCompatibility = JavaVersion.VERSION_21
 }
-
-openApi {
-    waitTimeInSeconds.set(60)
-    outputDir.set(file("$rootDir/docs/api-documentation"))
-}
-
