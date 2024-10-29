@@ -45,3 +45,4 @@ PS: localhost can be replaced with the test environment(stage) host name where t
   - Add more test
   - Add deployment files
   - work on Todos in the code
+  - take care of the code smells and sonarLint issues
